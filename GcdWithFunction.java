@@ -1,5 +1,3 @@
-package GcdWithFunction;
-
 import java.util.Scanner;
 
 public class GcdWithFunction 

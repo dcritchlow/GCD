@@ -1,5 +1,3 @@
-package GcdNoFunction;
-
 import java.util.Scanner;
 
 public class GcdNoFunction
